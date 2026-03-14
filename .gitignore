@@ -1,0 +1,19 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+TestResults/
+
+## Secrets — NEVER commit these
+appsettings.Production.json
+*.pfx
+*.key
+
+## Docker
+.dockerignore
+
+## OS
+.DS_Store
+Thumbs.db
