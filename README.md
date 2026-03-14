@@ -170,7 +170,6 @@ Click the **Authorize 🔒** button at the top of the Swagger page and enter:
 ```
 Bearer <paste-token-here>
 ```
-
 ### 3 — Upload an audit log (Auditor only)
 
 ```
